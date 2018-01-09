@@ -1,6 +1,6 @@
 # Frameshift_project
 
-This pipeline is for Frameshift Project.
+Here is the description of Frameshift Project Pipeline.
 
 Step1:
 Get rna refseq 
